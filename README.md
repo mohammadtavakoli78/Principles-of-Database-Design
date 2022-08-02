@@ -1,2 +1,1 @@
-# Principles-of-Database-Design
-This is final project of Principles of Database Design 
+# <p align="center">Principles-of-Database-Design Final Project</p>
