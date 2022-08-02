@@ -1,9 +1,9 @@
 # <p align="center">Principles-of-Database-Design Final Project</p>
 
 # Table of Contents
-- [Introduction](https://github.com/mohammadtavakoli78/Principles-of-Database-Design/edit/master/README.md#introduction)
-- [Technologies](https://github.com/mohammadtavakoli78/Principles-of-Database-Design/edit/master/README.md#technologies)
-- [Setup](https://github.com/mohammadtavakoli78/Principles-of-Database-Design/edit/master/README.md#setup)
+- [Introduction](https://github.com/mohammadtavakoli78/Principles-of-Database-Design#introduction)
+- [Technologies](https://github.com/mohammadtavakoli78/Principles-of-Database-Design#technologies)
+- [Setup](https://github.com/mohammadtavakoli78/Principles-of-Database-Design#setup)
 
 ## Introduction
 
